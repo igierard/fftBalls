@@ -1,0 +1,5 @@
+ofx3DModelLoader
+ofxFFT
+ofxUI
+ofxVectorMath
+ofxXmlSettings
